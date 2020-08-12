@@ -89,7 +89,7 @@ julia> import Pluto
 julia> Pluto.run(1234)
 ```
 
-Then go to [`http://localhost:1234/`](http://localhost:1234/) to start coding!
+Then go to [`http://localhost:1234/`](http://localhost:1234/) in your browser to start writing!
 
 ### To developers
 
