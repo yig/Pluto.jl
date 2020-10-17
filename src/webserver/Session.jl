@@ -69,7 +69,6 @@ function clientupdate_cell_output(notebook::Notebook, cell::Cell; initiator::Uni
                 :last_run_timestamp => cell.last_run_timestamp,
                 :mime => cell.repr_mime,
                 :body => cell.output_repr,
-                :rootassignee => cell.rootassignee,
             )
         ),
         notebook, cell, initiator)
