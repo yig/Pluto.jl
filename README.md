@@ -87,6 +87,7 @@ Run Julia and add the package:
 ```julia
 julia> ]
 (v1.5) pkg> add Pluto
+<Control-C>
 ```
 
 _Using the package manager for the first time can take up to 15 minutes - hang in there!_
